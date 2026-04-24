@@ -130,3 +130,5 @@ curl -X POST http://localhost:5000/api/whatsapp/send-template \
 - Low stock alert is triggered when quantity crosses below threshold (default 100), and the bot sends a notification.
 - Daily low-stock reminders are sent once per day per user for unresolved low-stock items.
 - GPay/UPI screenshots with credit cues (for example: "money received", "credited", "+INR") are auto-classified as income.
+
+Project: complete — all modules added
